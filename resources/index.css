@@ -36,7 +36,7 @@ h3 {
 
 .sections .color-block {
     display: inline-block;
-    border: dotted 2px gray;
+    border: solid .5px gray;
     margin: 10px 10px;
     width: 200px;
     height: 100px;
@@ -110,4 +110,10 @@ ul {
     text-align: justify;
     font-weight: regular;
     font-size: medium;
+}
+
+.styles {
+    background-image: url("https://images.unsplash.com/photo-1586075010923-2dd4570fb338?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+    background-size: cover;
+    background-position: top;
 }
